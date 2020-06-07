@@ -1,9 +1,11 @@
+/* Universal Style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body Style */
 body {
     background-color: #d9dcd6;
 }
@@ -43,7 +45,7 @@ header nav ul li {
 }
 /* Header Style End */
 
-/* Overall p and a Rules */
+/* Overall <p> and <a> Rules */
 a {
     color: #ffffff;
     text-decoration: none;
