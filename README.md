@@ -1,17 +1,28 @@
-# Horiseon
-<h1>Vanderbilt Bootcamp Week 1 Challenge</h1>
+ # Horiseon
 
-This website is for a company called Horiseon.  They are a tech firm that helps companies optimize their search engine optimization, online repution and social media marketing.
+## Purpose
+A website that offers online marketing tools for other companies such as:
+* Search engine optimization
+* Onnline reputation management
+* Social media marketing
 
-This is a basic landing page with a few links in the <nav> bar to the three main sections below.
+This is a basic landing page with a few links in the navigation bar to the three main sections below.
 
-Known issues include:
-    -<nav> bar does not scroll with page
-    -page is not optimized for relative window sizing (ex. phones and tablets with narrower screen widths)
+## Built With
+* HTML
+* CSS
 
-Public URL:
-
+## Website
 https://taylornyquist.github.io/Horiseon/
 
-Screen Shot:
+## Screen Shots
 
+ <img src="./assets/images/screen-shot1.png" alt="" />
+ <img src="./assets/images/screen-shot2.png" alt="" /> 
+
+ ## Known Issues
+* Navigation bar does not scroll with page
+* Page is not optimized for relative window sizing (ex. phones and tablets with narrower screen widths)
+
+### Contribution
+Made with ❤️ by Taylor Nyquist
